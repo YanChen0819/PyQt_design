@@ -5,3 +5,5 @@
 ### 點選搜尋圖案或在搜尋框內按 Enter 即可連接資料庫獲得所有論文資料 
 ![img](https://github.com/YanChen0819/PyQt_design/blob/main/guide/Assignement2_ui_2.PNG)
 ### 能依照選取的條件進行關鍵字搜尋，例如作者名含有 Chen 的人
+![img](https://github.com/YanChen0819/PyQt_design/blob/main/guide/Assignement2_ui_3.PNG)
+### 雙擊點選個別資料欄位會產生 Count Base 的文本分析計算關鍵字出現頻率，並以文字雲視覺化
