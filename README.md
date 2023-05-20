@@ -8,3 +8,4 @@
 ![img](https://github.com/YanChen0819/PyQt_design/blob/main/guide/Assignement2_ui_3.PNG)
 ## 雙擊點選個別資料欄位會產生 Count Base 的文本分析計算關鍵字出現頻率，並以文字雲視覺化
 ![img](https://github.com/YanChen0819/PyQt_design/blob/main/guide/Assignement2_ui_4.PNG)
+![img](https://github.com/YanChen0819/PyQt_design/blob/main/guide/Assignement2_ui_5.PNG)
